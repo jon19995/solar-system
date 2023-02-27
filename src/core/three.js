@@ -30,7 +30,7 @@ import {
 	uranus_ring,
 	earth,
 	saturn_ring,
-} from '@img';
+} from '../../public/img';
 
 const renderer = new WebGLRenderer();
 renderer.setSize(window.innerWidth, window.innerHeight);
