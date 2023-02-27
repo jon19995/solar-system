@@ -1,2 +1,2 @@
-import 'assets/style.css';
-import 'core/three.js';
+import './src/assets/style.css';
+import './src/core/three.js';
